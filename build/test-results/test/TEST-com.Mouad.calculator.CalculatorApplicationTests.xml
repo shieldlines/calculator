@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.Mouad.calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-15T07:54:33" hostname="mouad" time="0.846">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.Mouad.calculator.CalculatorApplicationTests" time="0.846"/>
+  <system-out><![CDATA[08:54:31.266 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.Mouad.calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+08:54:31.503 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.Mouad.calculator.CalculatorApplication for test class com.Mouad.calculator.CalculatorApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2023-12-15T08:54:32.243+01:00  INFO 16913 --- [    Test worker] c.M.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.8.1 with PID 16913 (started by mouad in /home/mouad/calculator)
+2023-12-15T08:54:32.246+01:00  INFO 16913 --- [    Test worker] c.M.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-12-15T08:54:33.627+01:00  INFO 16913 --- [    Test worker] c.M.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 1.811 seconds (process running for 3.742)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
