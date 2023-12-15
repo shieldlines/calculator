@@ -13,7 +13,7 @@ sh "./gradlew test"
 }
 	
 
-stage("Couverture du code") {
+stage("Code coverage") {
 steps {
 sh "./gradlew jacocoTestReport"
 publishHTML (target: [
